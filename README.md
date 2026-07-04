@@ -1,1 +1,1 @@
-# Sophos-email-security-administration
+# Sophos Email Security for Microsoft 365
